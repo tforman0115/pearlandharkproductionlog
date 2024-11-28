@@ -1,7 +1,7 @@
 # Don't save the log-in credentials for the database to github
-Backend-Server/nodemon.json
+env.json
 
 # Don't store all the node modules on git
 # Install them with 'npm install' while in the Backend-Server directory
-*/node_modules
+node_modules
 Backend-Server/todo.txt
